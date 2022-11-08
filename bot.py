@@ -63,7 +63,7 @@ async def on_member_join(member):
 
 @client.event
 async def on_member_remove(member):
-    print(f'{member} Has Left A Server.')
+    print(f'{member} Has Left A Server. :broken_heart:')
 
 
 client.run('MTAzOTU5MDAzMzM0NDE2Nzk2Ng.GuB7M_.5wQI3EeVgTpwT0FlDgQ4e1Sk_5AvGIUWqpi5VE')
